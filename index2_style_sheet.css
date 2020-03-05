@@ -1,0 +1,44 @@
+.navbar-brand {
+	font-size: 30px;
+	text-shadow: 2px 2px 8px grey;
+}
+.head {
+	color:  #6DBEE1;
+	font-family: 'Advent Pro', sans-serif;
+	font-size: 80px;
+	font-weight: bold;
+	text-shadow: 2px 2px 8px black;
+}
+p{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 24px;
+}
+.navbar {
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 20px;
+	letter-spacing: 2px;
+}
+.featurette-heading {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 35px;
+}
+h2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+}
+.jumbotron-heading {
+	color:  #6DBEE1;
+	font-family: 'Advent Pro', sans-serif;
+	font-size: 80px;
+	font-weight: bold;
+	text-shadow: 2px 2px 8px black;
+}
+.cont-fotohist {
+	padding-top: 40px;
+}
+.lead {
+ 	font-weight: bold;
+ 	font-size: 20px;
+ 	text-shadow: 1px 1px 2px black;
+ }
